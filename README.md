@@ -23,6 +23,7 @@
 #### https://www.pngitem.com/middle/xbhTbR_harddisk-clip-arts-hard-disk-clipart-hd-png/
 #### https://www.lifewire.com/what-is-a-registry-key-2625999 
 #### https://stackoverflow.com/questions/944212/disable-controlpanel
+#### https://redteamrecipe.com/Registry-Attack-Vectors/
 
 
 
