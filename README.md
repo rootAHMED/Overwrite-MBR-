@@ -6,7 +6,7 @@
 
 
 # What is MBR? 
-##### MBR stands for Master Boot Record. It is a small section located at the beginning of a storage device, such as a hard disk drive or solid-state drive, that contains essential information for the booting process of a computer, The MBR holds the primary partition table,
+#### MBR stands for Master Boot Record. It is a small section located at the beginning of a storage device, such as a hard disk drive or solid-state drive, that contains essential information for the booting process of a computer, The MBR holds the primary partition table,
 
 # Overwriting MBR 
 ### Overwriting the Master Boot Record (MBR) is a delicate operation that should be approached with caution. Modifying or overwriting the MBR can have significant consequences and potentially render the system unbootable if not done correctly. 
