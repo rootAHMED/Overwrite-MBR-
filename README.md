@@ -11,8 +11,6 @@
 # Overwriting MBR 
 ### Overwriting the Master Boot Record (MBR) is a delicate operation that should be approached with caution. Modifying or overwriting the MBR can have significant consequences and potentially render the system unbootable if not done correctly. 
 
-# facts
-### In the C/C++ language, everything is more robust and faster in dealing with physical components in the computer :)
 
 
 # Sources
