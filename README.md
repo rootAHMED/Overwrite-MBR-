@@ -13,7 +13,7 @@
 
 # facts
 ### In the C/C++ language, everything is more robust and faster in dealing with physical components in the computer :)
-### Do not be stupid and using Python lol :)
+
 
 # Sources
 
